@@ -1,0 +1,143 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input, label {
+    float: left;
+    margin: .4rem 0;
+}
+body {
+  background-image: url("./image/dice\ casino.jpg");
+  padding: 0px;
+  top: 50px;
+  left: 500px;
+  position: relative;
+}
+#resets {
+    border: 0;
+    line-height: 2;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: left;
+    color: yellow;
+    text-shadow: 1px 1px 1px rgb(7, 6, 6);
+    border-radius: 5px;
+    z-index: 1;
+    background-color:rgb(17, 143, 65);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(12, 8, 8, 0.6),
+                inset -2px -2px 3px rgba(8, 3, 3, 0.6)
+}
+#resets:hover {
+    background-color: yellowgreen;
+}
+#resets:active {
+    box-shadow: inset -2px -2px 3px rgba(18, 238, 84, 0.6),
+                inset 2px 2px 3px rgba(218, 20, 20, 0.6);
+
+}
+#roll {
+    border: 0;
+    float: left;
+    line-height: 2;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: rgb(247, 247, 241);
+    text-shadow: 1px 1px 1px rgb(7, 6, 6);
+    border-radius: 5px;
+    z-index: 1;
+    background-color:rgb(17, 143, 65);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(12, 8, 8, 0.6),
+                inset -2px -2px 3px rgba(8, 3, 3, 0.6)
+}
+#roll:hover {
+    background-color: rgb(50, 205, 50);
+}
+#roll:active {
+    box-shadow: inset -2px -2px 3px rgba(18, 238, 84, 0.6),
+                inset 2px 2px 3px rgba(218, 20, 20, 0.6);
+}.label{
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.input,label{
+    float: left;
+    margin: .4rem 0;
+}
+p {
+    border: 0;
+    float: left;
+    line-height: 2;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: left;
+    color: yellow;
+    text-shadow: 1px 1px 1px solid white;
+    border-radius: 5px;
+    background-color:rgb(9, 248, 69);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(12, 8, 8, 0.6),
+                inset -2px -2px 3px rgba(8, 3, 3, 0.6)
+}
+
+p:hover {
+    background-color: rgb(133, 190, 25);
+}
+p:active {
+    box-shadow: inset -2px -2px 3px rgb(0, 253, 0),
+                inset 2px 2px 3px rgb(214, 211, 49);
+}
+.label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.input,label {
+    float: center;
+    margin: .4rem 0;
+}       
+#showRoll {
+    border: 0;
+    float: left;
+    line-height: 1.9;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: left;
+    color: yellow;
+    text-shadow: 1px 1px 1px rgb(7, 6, 6);
+    border-radius: 5px;
+    z-index: 1;
+    background-color:rgb(17, 143, 65);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(12, 8, 8, 0.6),
+                inset -2px -2px 3px rgba(8, 3, 3, 0.6)
+}
+#showRoll:hover {
+    background-color: greenyellow;
+}
+#showRoll:active {
+    box-shadow: inset -2px -2px 3px rgba(178, 231, 173, 0.6),
+                inset 2px 2px 3px rgba(1, 163, 109, 0.6);
+}
+#lists {
+    color: white;
+}
+label {
+    color: white;
+}
+h2 {
+    color: white;
+}
